@@ -11,6 +11,8 @@ This project demonstrates a DevSecOps pipeline for a three-tier application call
 ## Direct Docker Installation 
 
 ```bash
+git clone https://github.com/tushargurav28/Deployment-Messenger.git
+cd Deployment-Messenger
 docker-compose up --build
 ```
 
