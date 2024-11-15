@@ -8,6 +8,14 @@ This project demonstrates a DevSecOps pipeline for a three-tier application call
 ![https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221346.png](https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221346.png)
 
 
+## Direct Docker Installation 
+
+```
+docker-compose up --build
+
+```
+
+
 ##### Pipeline Stages
 1. **Clone Code from GitHub:** Clones the Messenger App project repository.
 2. **SonarQube Quality Analysis:** Analyzes code quality using SonarQube.
