@@ -28,7 +28,7 @@ This project demonstrates a DevSecOps pipeline for a three-tier application call
 ### Installation on Ubuntu
 1. Install Jenkins:
 
-```
+```bash
 sudo apt update
 sudo apt install openjdk-11-jdk -y
 wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -
@@ -42,7 +42,7 @@ sudo systemctl enable jenkins
 
 2. Install Docker and Docker Compose:
 
-```
+```bash
 sudo apt update
 sudo apt install -y docker.io
 sudo systemctl start docker
@@ -55,13 +55,13 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 3. Install SonarQube:
 
- ```
+ ```bash
 docker run -d --name sonarqube -p 9000:9000 sonarqube:lts-community
  ```
 
 4. Install Trivy:
 
-```
+```bash
 sudo apt update
 sudo apt install -y wget apt-transport-https gnupg lsb-release
 wget -qO - https://aquasecurity.github.io/trivy-repo/deb/public.key | sudo apt-key add -
@@ -76,7 +76,7 @@ sudo apt install trivy -y
 1. Open Jenkins and create a new Pipeline project.
 2. In the pipeline configuration, use the following script:
 
-```
+```bash
 pipeline {
     agent any
     environment {
