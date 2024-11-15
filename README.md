@@ -1,7 +1,7 @@
 # Messenger App - DevSecOps Pipeline with Jenkins and Docker
 
-![https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221005.png](https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221005.png)
-![https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221015.png](https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221015.png)
+![https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221005.png](https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221005.png) ![https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221015.png](https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221015.png)
+
 ![https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221403.png](https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221403.png)
 ![https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221346.png](https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241114-221346.png)
 ![https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241115-173510.png](https://github.com/tushargurav28/Deployment-Messenger/blob/main/images/Screenshot-20241115-173510.png)
