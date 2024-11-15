@@ -10,9 +10,8 @@ This project demonstrates a DevSecOps pipeline for a three-tier application call
 
 ## Direct Docker Installation 
 
-```
+```bash
 docker-compose up --build
-
 ```
 
 
